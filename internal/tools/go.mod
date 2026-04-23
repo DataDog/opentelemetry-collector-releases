@@ -2,6 +2,8 @@ module go.opentelemetry.io/collector/internal/tools
 
 go 1.24.0
 
+toolchain go1.26.2
+
 require go.opentelemetry.io/build-tools/chloggen v0.28.1
 
 require (
